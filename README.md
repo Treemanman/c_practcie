@@ -1,18 +1,2 @@
-# C 语言练习
-
-上海第二工业大学 · 工业智能专业 · 大一上（2026 年秋）
-
-从零开始学 C 语言，仓库里每个文件都是我自己写的、能跑起来的程序。
-
-## 文件
-
-| 文件 | 内容 | 用到的知识点 |
-|---|---|---|
-| 99_table_multiplication.c | 打印九九乘法表 | 嵌套循环 |
-| even_numbers.c | 求 1-100 的偶数和 | 循环 + 条件判断 |
-| pyramid.c | 打印金字塔图形 | 嵌套循环 |
-| score.c | 成绩统计：录入、平均分、最高分、最低分、及格人数 | 数组、函数、数组传参、宏定义 |
-
-## 环境
-
-Windows 11 · gcc (MinGW) · Visual Studio 2022
+[main 7bc772c] docs: 完善 READMEcat
+ 1 file changed, 5 insertions(+), 5 deletions(-)
